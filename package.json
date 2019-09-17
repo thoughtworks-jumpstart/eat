@@ -9,7 +9,13 @@
   "bin": {
     "eat": "index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "food",
+    "lunch",
+    "jumpstart",
+    "singapore",
+    "hawker centers"
+  ],
   "author": "Jesstern Rays <jrays@thoughtworks.com>",
   "license": "ISC",
   "dependencies": {
