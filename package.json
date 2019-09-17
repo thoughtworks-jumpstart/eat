@@ -1,6 +1,6 @@
 {
   "name": "@thoughtworks-jumpstart/eat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Suggests a place to eat from a list of predifned food places",
   "repository": {
     "type": "git",
