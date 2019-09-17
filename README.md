@@ -12,7 +12,7 @@ npm install --gloabl @thoughtworks-jumpstart/eat
 
 ```sh
 $ eat
-$ Let's go to Market Street Interim Hawker Centre at 5 Cross Street Market Street
+$ Let\'s go to Market Street Interim Hawker Centre at 5 Cross Street Market Street
 ```
 
 ## Usage without installation
