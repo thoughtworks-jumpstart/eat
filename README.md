@@ -2,6 +2,8 @@
 
 A simple cli tool to suggest which hawker center to go to from a predefined list of hawker centers
 
+![screenshot.png]
+
 ## Install package
 
 ```sh
