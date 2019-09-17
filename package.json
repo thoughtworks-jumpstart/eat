@@ -1,0 +1,19 @@
+{
+  "name": "@thoughtworks-jumpstart/eat",
+  "version": "1.0.0",
+  "description": "Suggests a place to eat from a list of predifned food places",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thoughtworks-jumpstart/eat"
+  },
+  "bin": {
+    "eat": "index.js"
+  },
+  "keywords": [],
+  "author": "Jesstern Rays <jrays@thoughtworks.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.1",
+    "lodash.sample": "^4.2.1"
+  }
+}
